@@ -1,0 +1,6 @@
+{
+  "name": "Shree Gayathri Yoga",
+  "description": "A modern, highly responsive website for Shree Gayathri Yoga with elegant typography, rich Framer Motion animations, interactive 3D-like hover effects, and fluid navigation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
